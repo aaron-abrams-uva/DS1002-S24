@@ -1,0 +1,122 @@
+pickup,dropoff,passengers,distance,fare,tip,tolls,total,color,payment,pickup_zone,dropoff_zone,pickup_borough,dropoff_borough
+3/23/19 20:21,3/23/19 20:27,1,1.6,7,2.15,0,12.95,yellow,credit card,Lenox Hill West,UN/Turtle Bay South,Manhattan,Manhattan
+3/4/19 16:11,3/4/19 16:19,1,0.79,5,0,0,9.3,yellow,cash,Upper West Side South,Upper West Side South,Manhattan,Manhattan
+3/27/19 17:53,3/27/19 18:00,1,1.37,7.5,2.36,0,14.16,yellow,credit card,Alphabet City,West Village,Manhattan,Manhattan
+3/10/19 1:23,3/10/19 1:49,1,7.7,27,6.15,0,36.95,yellow,credit card,Hudson Sq,Yorkville West,Manhattan,Manhattan
+3/30/19 13:27,3/30/19 13:37,3,2.16,9,1.1,0,13.4,yellow,credit card,Midtown East,Yorkville West,Manhattan,Manhattan
+3/11/19 10:37,3/11/19 10:47,1,0.49,7.5,2.16,0,12.96,yellow,credit card,Times Sq/Theatre District,Midtown East,Manhattan,Manhattan
+3/26/19 21:07,3/26/19 21:17,1,3.65,13,2,0,18.8,yellow,credit card,Battery Park City,Two Bridges/Seward Park,Manhattan,Manhattan
+3/22/19 12:47,3/22/19 12:58,0,1.4,8.5,0,0,11.8,yellow,,Murray Hill,Flatiron,Manhattan,Manhattan
+3/23/19 11:48,3/23/19 12:06,1,3.63,15,1,0,19.3,yellow,credit card,East Harlem South,Midtown Center,Manhattan,Manhattan
+3/8/19 16:18,3/8/19 16:26,1,1.52,8,1,0,13.3,yellow,credit card,Lincoln Square East,Central Park,Manhattan,Manhattan
+3/16/19 10:02,3/16/19 10:22,1,3.9,17,0,0,17.8,yellow,cash,LaGuardia Airport,Astoria,Queens,Queens
+3/20/19 19:39,3/20/19 19:45,1,1.53,6.5,2.16,0,12.96,yellow,credit card,Upper West Side South,Manhattan Valley,Manhattan,Manhattan
+3/18/19 21:27,3/18/19 21:34,1,1.05,6.5,1,0,11.3,yellow,credit card,Murray Hill,Midtown Center,Manhattan,Manhattan
+3/19/19 7:55,3/19/19 8:09,1,1.75,10.5,0,0,13.8,yellow,cash,Lincoln Square West,Times Sq/Theatre District,Manhattan,Manhattan
+3/27/19 12:13,3/27/19 12:25,0,2.9,11.5,0,0,14.8,yellow,cash,Financial District North,Two Bridges/Seward Park,Manhattan,Manhattan
+3/16/19 17:53,3/16/19 18:13,3,2.09,13.5,0,0,16.8,yellow,cash,Upper West Side North,Clinton East,Manhattan,Manhattan
+3/15/19 12:36,3/15/19 12:54,1,2.12,13,0,0,16.3,yellow,cash,East Chelsea,Meatpacking/West Village West,Manhattan,Manhattan
+3/23/19 20:50,3/23/19 21:02,1,2.6,10.5,2,0,16.3,yellow,credit card,Midtown Center,East Harlem South,Manhattan,Manhattan
+3/27/19 6:28,3/27/19 6:38,1,2.18,9.5,1.92,0,14.72,yellow,credit card,Gramercy,Midtown Center,Manhattan,Manhattan
+3/25/19 22:04,3/25/19 22:11,6,1.08,6.5,1.08,0,11.38,yellow,credit card,East Chelsea,East Chelsea,Manhattan,Manhattan
+3/21/19 3:37,3/21/19 3:44,1,1.07,6.5,1.54,0,11.84,yellow,credit card,Penn Station/Madison Sq West,Kips Bay,Manhattan,Manhattan
+3/25/19 23:05,3/25/19 23:11,1,0.8,5.5,2.3,0,11.6,yellow,credit card,Penn Station/Madison Sq West,Murray Hill,Manhattan,Manhattan
+3/28/19 17:20,3/28/19 17:55,1,9.82,31.5,8.31,5.76,49.87,yellow,credit card,LaGuardia Airport,Sutton Place/Turtle Bay North,Queens,Manhattan
+3/4/19 12:15,3/4/19 12:26,5,1.09,8.5,2.36,0,14.16,yellow,credit card,Sutton Place/Turtle Bay North,Midtown North,Manhattan,Manhattan
+3/24/19 9:53,3/24/19 10:01,5,2.89,9.5,3.84,0,16.64,yellow,credit card,Lenox Hill West,Gramercy,Manhattan,Manhattan
+3/25/19 8:01,3/25/19 8:13,1,1.9,10,3,0,16.3,yellow,credit card,Lincoln Square East,Midtown South,Manhattan,Manhattan
+3/3/19 2:45,3/3/19 3:02,1,3.35,13.5,0,0,17.3,yellow,cash,West Chelsea/Hudson Yards,Seaport,Manhattan,Manhattan
+3/16/19 20:30,3/16/19 20:46,1,2.6,12.5,3.26,0,19.56,yellow,credit card,Clinton East,Lenox Hill West,Manhattan,Manhattan
+3/20/19 12:25,3/20/19 12:45,1,4.71,17.5,0,0,18.3,yellow,credit card,Clinton West,East Harlem North,Manhattan,Manhattan
+3/6/19 8:09,3/6/19 8:27,1,0.92,12,0,0,15.3,yellow,cash,UN/Turtle Bay South,Garment District,Manhattan,Manhattan
+3/10/19 15:14,3/10/19 15:20,1,1.84,7,2.06,0,12.36,yellow,credit card,Lenox Hill West,East Harlem South,Manhattan,Manhattan
+3/1/19 2:55,3/1/19 2:57,3,0.74,4,0,0,7.8,yellow,cash,Clinton East,West Chelsea/Hudson Yards,Manhattan,Manhattan
+3/17/19 19:24,3/17/19 19:29,1,0.62,5.5,1,0,9.8,yellow,credit card,Midtown Center,Sutton Place/Turtle Bay North,Manhattan,Manhattan
+3/20/19 22:29,3/20/19 22:32,2,0.65,4.5,2.49,0,10.79,yellow,credit card,Midtown South,Midtown Center,Manhattan,Manhattan
+3/21/19 10:48,3/21/19 10:57,2,0.87,7.5,2.16,0,12.96,yellow,credit card,Midtown North,Clinton West,Manhattan,Manhattan
+3/1/19 17:39,3/1/19 18:04,1,3.06,17,4.26,0,25.56,yellow,credit card,West Chelsea/Hudson Yards,Lenox Hill East,Manhattan,Manhattan
+3/22/19 17:28,3/22/19 17:33,1,1.1,5.5,0,0,9.8,yellow,cash,Garment District,Flatiron,Manhattan,Manhattan
+3/21/19 18:41,3/21/19 19:15,1,3.13,20.5,0,0,24.8,yellow,cash,Lenox Hill East,Garment District,Manhattan,Manhattan
+3/18/19 16:03,3/18/19 16:10,2,1.13,6.5,2.16,0,12.96,yellow,credit card,Gramercy,Murray Hill,Manhattan,Manhattan
+3/25/19 22:50,3/25/19 22:59,1,2.47,10,2.76,0,16.56,yellow,credit card,Garment District,Upper West Side South,Manhattan,Manhattan
+3/7/19 15:15,3/7/19 15:50,1,7.51,27,6.06,0,36.36,yellow,credit card,Flatiron,Carroll Gardens,Manhattan,Brooklyn
+3/24/19 18:42,3/24/19 19:09,0,4.5,20,0,0,23.3,yellow,cash,TriBeCa/Civic Center,Kips Bay,Manhattan,Manhattan
+3/30/19 23:59,3/30/19 23:59,1,0,80,20.08,0,100.38,yellow,credit card,,,,
+3/27/19 19:39,3/27/19 20:00,1,9.5,28,0,5.76,35.06,yellow,cash,LaGuardia Airport,Washington Heights South,Queens,Manhattan
+3/14/19 7:19,3/14/19 7:45,1,9.37,29.5,1,0,33.8,yellow,credit card,East Harlem South,Battery Park City,Manhattan,Manhattan
+3/7/19 11:19,3/7/19 11:39,1,0.8,12.5,3.15,0,18.95,yellow,credit card,Lincoln Square East,Midtown East,Manhattan,Manhattan
+3/20/19 11:40,3/20/19 12:06,2,4.7,20,0,0,23.3,yellow,cash,Times Sq/Theatre District,Battery Park City,Manhattan,Manhattan
+3/13/19 6:17,3/13/19 6:21,2,1.15,5.5,2.64,0,11.44,yellow,credit card,Upper East Side North,Lenox Hill West,Manhattan,Manhattan
+3/7/19 16:49,3/7/19 16:57,1,1.3,7,0,0,11.3,yellow,cash,Lincoln Square East,Times Sq/Theatre District,Manhattan,Manhattan
+3/4/19 21:35,3/4/19 21:53,1,4.87,17.5,0,0,21.3,yellow,cash,West Village,Upper West Side South,Manhattan,Manhattan
+3/16/19 16:36,3/16/19 16:54,2,1,11.5,0,0,14.8,yellow,cash,Clinton East,Penn Station/Madison Sq West,Manhattan,Manhattan
+3/16/19 17:38,3/16/19 17:56,4,1.89,12,0,0,15.3,yellow,cash,Midtown North,Union Sq,Manhattan,Manhattan
+3/21/19 21:30,3/21/19 21:39,2,0.9,7,2.15,0,12.95,yellow,credit card,Greenwich Village South,Meatpacking/West Village West,Manhattan,Manhattan
+3/20/19 18:49,3/20/19 19:12,1,13.45,36,0,0,37.8,yellow,cash,JFK Airport,Sunnyside,Queens,Queens
+3/24/19 1:13,3/24/19 1:24,1,2.8,10.5,2.85,0,17.15,yellow,credit card,East Village,Sutton Place/Turtle Bay North,Manhattan,Manhattan
+3/14/19 12:11,3/14/19 12:40,1,3.43,19,4.46,0,26.76,yellow,credit card,Union Sq,Lincoln Square West,Manhattan,Manhattan
+3/5/19 17:57,3/5/19 18:45,2,19.59,52,0,5.76,65.56,yellow,credit card,JFK Airport,Upper East Side North,Queens,Manhattan
+3/17/19 13:55,3/17/19 14:01,4,0.71,5.5,1.76,0,10.56,yellow,credit card,UN/Turtle Bay South,Midtown Center,Manhattan,Manhattan
+3/1/19 23:21,3/1/19 23:46,1,4.5,18.5,4.46,0,26.76,yellow,credit card,Garment District,Financial District North,Manhattan,Manhattan
+3/9/19 19:24,3/9/19 19:33,3,0.82,7,2,0,12.3,yellow,credit card,TriBeCa/Civic Center,Lower East Side,Manhattan,Manhattan
+3/1/19 22:49,3/1/19 22:53,1,0.9,5,0,0,6.3,yellow,credit card,East Harlem South,East Harlem North,Manhattan,Manhattan
+3/13/19 10:55,3/13/19 11:23,2,2.4,17.5,0,0,20.8,yellow,cash,Times Sq/Theatre District,Lenox Hill East,Manhattan,Manhattan
+3/21/19 23:33,3/21/19 23:36,1,0.44,4,0,0,7.8,yellow,cash,Flatiron,East Chelsea,Manhattan,Manhattan
+3/28/19 21:59,3/28/19 22:04,4,1.02,5.5,0,0,9.3,yellow,cash,Penn Station/Madison Sq West,Garment District,Manhattan,Manhattan
+3/26/19 10:14,3/26/19 10:26,6,1.38,9,3.08,0,15.38,yellow,credit card,Midtown South,Midtown Center,Manhattan,Manhattan
+3/2/19 19:08,3/2/19 19:31,1,2.42,15.5,3.76,0,22.56,yellow,credit card,Hudson Sq,Times Sq/Theatre District,Manhattan,Manhattan
+3/15/19 13:42,3/15/19 13:49,1,0.66,6,2.79,0,12.09,yellow,credit card,Lenox Hill West,Lenox Hill West,Manhattan,Manhattan
+3/4/19 13:39,3/4/19 13:58,1,3.3,15.5,0,0,18.8,yellow,cash,Garment District,Yorkville East,Manhattan,Manhattan
+3/22/19 2:22,3/22/19 2:30,3,1.22,7.5,0,0,11.3,yellow,cash,Clinton East,Midtown North,Manhattan,Manhattan
+3/31/19 15:43,3/31/19 15:53,1,0.55,7.5,1.5,0,12.3,yellow,credit card,Clinton East,Times Sq/Theatre District,Manhattan,Manhattan
+3/27/19 19:27,3/27/19 19:48,1,3.51,16.5,1,0,21.8,yellow,credit card,Union Sq,Upper East Side North,Manhattan,Manhattan
+3/13/19 7:34,3/13/19 7:38,1,1.07,5.5,1.76,0,10.56,yellow,credit card,East Chelsea,Garment District,Manhattan,Manhattan
+3/12/19 15:44,3/12/19 16:02,1,1.98,11.5,2.96,0,17.76,yellow,credit card,Yorkville West,Upper West Side North,Manhattan,Manhattan
+3/29/19 8:48,3/29/19 8:56,1,1,6.5,1.95,0,11.75,yellow,credit card,Murray Hill,Union Sq,Manhattan,Manhattan
+3/2/19 23:05,3/2/19 23:17,1,1.85,10,0,0,13.8,yellow,cash,Clinton East,Lenox Hill West,Manhattan,Manhattan
+3/17/19 1:28,3/17/19 2:04,1,7.95,30,0,0,33.8,yellow,cash,Flatiron,Jackson Heights,Manhattan,Queens
+3/9/19 13:42,3/9/19 13:48,1,1,6.5,0,0,9.8,yellow,cash,Upper East Side North,Midtown East,Manhattan,Manhattan
+3/5/19 15:41,3/5/19 15:46,1,0.6,5,1.65,0,9.95,yellow,credit card,Midtown Center,Midtown Center,Manhattan,Manhattan
+3/18/19 19:57,3/18/19 20:06,2,1.57,8.5,1.8,0,14.6,yellow,credit card,Central Park,Midtown North,Manhattan,Manhattan
+3/17/19 22:47,3/17/19 22:55,1,1.3,7.5,2.25,0,13.55,yellow,credit card,West Chelsea/Hudson Yards,Meatpacking/West Village West,Manhattan,Manhattan
+3/15/19 23:46,3/15/19 23:59,1,1.47,9.5,0,0,13.3,yellow,cash,Midtown East,Penn Station/Madison Sq West,Manhattan,Manhattan
+3/16/19 18:57,3/16/19 19:00,2,0.4,4,0,0,7.3,yellow,cash,Upper East Side North,Upper East Side North,Manhattan,Manhattan
+3/14/19 11:55,3/14/19 12:08,6,1.84,10,2.66,0,15.96,yellow,credit card,East Harlem South,Upper East Side South,Manhattan,Manhattan
+3/16/19 21:03,3/16/19 21:21,1,2.5,12.5,1.5,0,17.8,yellow,credit card,Meatpacking/West Village West,Chinatown,Manhattan,Manhattan
+3/9/19 19:54,3/9/19 20:07,2,1.5,9.5,0,0,12.8,yellow,cash,Gramercy,Penn Station/Madison Sq West,Manhattan,Manhattan
+3/3/19 16:44,3/3/19 16:48,1,1.02,5,2.08,0,10.38,yellow,credit card,Kips Bay,Stuy Town/Peter Cooper Village,Manhattan,Manhattan
+3/4/19 20:20,3/4/19 20:24,1,0.6,5,0,0,6.3,yellow,cash,Morningside Heights,Morningside Heights,Manhattan,Manhattan
+3/28/19 22:57,3/28/19 23:16,1,4.1,16,0,0,19.8,yellow,cash,Hudson Sq,Lincoln Square East,Manhattan,Manhattan
+3/16/19 5:08,3/16/19 5:08,1,0.07,2.5,0,0,3.8,yellow,cash,Astoria,Astoria,Queens,Queens
+3/27/19 22:22,3/27/19 22:41,1,5.99,20,5.95,0,29.75,yellow,credit card,Greenwich Village South,Yorkville West,Manhattan,Manhattan
+3/7/19 10:39,3/7/19 11:05,5,2.55,16.5,0,0,19.8,yellow,cash,Midtown Center,Little Italy/NoLiTa,Manhattan,Manhattan
+3/11/19 8:46,3/11/19 8:47,1,0.3,3,0.95,0,7.25,yellow,credit card,Upper East Side North,Upper East Side North,Manhattan,Manhattan
+3/28/19 7:05,3/28/19 7:41,0,10.6,33.5,0,5.76,40.06,yellow,credit card,East Tremont,Midtown East,Bronx,Manhattan
+3/12/19 12:02,3/12/19 12:17,3,0.66,9.5,1.2,0,14,yellow,credit card,Sutton Place/Turtle Bay North,Midtown Center,Manhattan,Manhattan
+3/6/19 20:00,3/6/19 20:11,3,2.6,11,4.4,0,19.2,yellow,credit card,Upper East Side South,Upper West Side North,Manhattan,Manhattan
+3/28/19 21:30,3/28/19 21:42,1,1.6,9,2.55,0,15.35,yellow,credit card,Penn Station/Madison Sq West,Stuy Town/Peter Cooper Village,Manhattan,Manhattan
+3/13/19 16:11,3/13/19 16:28,1,3.21,13.5,0,0,17.8,yellow,cash,Financial District South,Downtown Brooklyn/MetroTech,Manhattan,Brooklyn
+3/4/19 22:34,3/4/19 22:41,1,1.3,7.5,0.5,0,11.8,yellow,credit card,Midtown Center,Upper East Side South,Manhattan,Manhattan
+3/8/19 19:10,3/8/19 19:18,2,0.9,7,0,0,11.3,yellow,cash,Midtown North,Times Sq/Theatre District,Manhattan,Manhattan
+3/2/19 10:47,3/2/19 10:56,3,0.95,7.5,2.16,0,12.96,yellow,credit card,West Village,Flatiron,Manhattan,Manhattan
+3/17/19 22:47,3/17/19 22:55,1,1.3,7.5,2.25,0,13.55,yellow,credit card,West Chelsea/Hudson Yards,Meatpacking/West Village West,Manhattan,Manhattan
+3/15/19 23:46,3/15/19 23:59,1,1.47,9.5,0,0,13.3,yellow,cash,Midtown East,Penn Station/Madison Sq West,Manhattan,Manhattan
+3/16/19 18:57,3/16/19 19:00,2,0.4,4,0,0,7.3,yellow,cash,Upper East Side North,Upper East Side North,Manhattan,Manhattan
+3/14/19 11:55,3/14/19 12:08,6,1.84,10,2.66,0,15.96,yellow,credit card,East Harlem South,Upper East Side South,Manhattan,Manhattan
+3/16/19 21:03,3/16/19 21:21,1,2.5,12.5,1.5,0,17.8,yellow,credit card,Meatpacking/West Village West,Chinatown,Manhattan,Manhattan
+3/9/19 19:54,3/9/19 20:07,2,1.5,9.5,0,0,12.8,yellow,cash,Gramercy,Penn Station/Madison Sq West,Manhattan,Manhattan
+3/3/19 16:44,3/3/19 16:48,1,1.02,5,2.08,0,10.38,yellow,credit card,Kips Bay,Stuy Town/Peter Cooper Village,Manhattan,Manhattan
+3/4/19 20:20,3/4/19 20:24,1,0.6,5,0,0,6.3,yellow,cash,Morningside Heights,Morningside Heights,Manhattan,Manhattan
+3/28/19 22:57,3/28/19 23:16,1,4.1,16,0,0,19.8,yellow,cash,Hudson Sq,Lincoln Square East,Manhattan,Manhattan
+3/16/19 5:08,3/16/19 5:08,1,0.07,2.5,0,0,3.8,yellow,cash,Astoria,Astoria,Queens,Queens
+3/27/19 22:22,3/27/19 22:41,1,5.99,20,5.95,0,29.75,yellow,credit card,Greenwich Village South,Yorkville West,Manhattan,Manhattan
+3/7/19 10:39,3/7/19 11:05,5,2.55,16.5,0,0,19.8,yellow,cash,Midtown Center,Little Italy/NoLiTa,Manhattan,Manhattan
+3/11/19 8:46,3/11/19 8:47,1,0.3,3,0.95,0,7.25,yellow,credit card,Upper East Side North,Upper East Side North,Manhattan,Manhattan
+3/28/19 7:05,3/28/19 7:41,0,10.6,33.5,0,5.76,40.06,yellow,credit card,East Tremont,Midtown East,Bronx,Manhattan
+3/12/19 12:02,3/12/19 12:17,3,0.66,9.5,1.2,0,14,yellow,credit card,Sutton Place/Turtle Bay North,Midtown Center,Manhattan,Manhattan
+3/6/19 20:00,3/6/19 20:11,3,2.6,11,4.4,0,19.2,yellow,credit card,Upper East Side South,Upper West Side North,Manhattan,Manhattan
+3/28/19 21:30,3/28/19 21:42,1,1.6,9,2.55,0,15.35,yellow,credit card,Penn Station/Madison Sq West,Stuy Town/Peter Cooper Village,Manhattan,Manhattan
+3/13/19 16:11,3/13/19 16:28,1,3.21,13.5,0,0,17.8,yellow,cash,Financial District South,Downtown Brooklyn/MetroTech,Manhattan,Brooklyn
+3/4/19 22:34,3/4/19 22:41,1,1.3,7.5,0.5,0,11.8,yellow,credit card,Midtown Center,Upper East Side South,Manhattan,Manhattan
+3/8/19 19:10,3/8/19 19:18,2,0.9,7,0,0,11.3,yellow,cash,Midtown North,Times Sq/Theatre District,Manhattan,Manhattan
+3/2/19 10:47,3/2/19 10:56,3,0.95,7.5,2.16,0,12.96,yellow,credit card,West Village,Flatiron,Manhattan,Manhattan
